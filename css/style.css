@@ -1,0 +1,22 @@
+.header{
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+body{
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+
+.cats{
+  width:33%;
+}
+
+.dogs{
+  width:33%;
+}
+
+.possum{
+  width:33%;
+}
