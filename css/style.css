@@ -9,6 +9,12 @@ body{
   background-color: lightblue;
 }
 
+.fancy{
+  font-style: italic;
+  font-size: 20px;
+  font-family: serif;
+}
+
 .cats{
   float: left;
   text-align: center;
